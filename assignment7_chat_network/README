@@ -1,0 +1,10 @@
+CSCI 315 Systems Programming: Assignment 7
+Jacob Fields
+
+gitignore not set up, make clean before pushing
+
+References:
+Used Pete Johnson's echo-client.c, echo-server.c, and Makefile as starter code (accessed 12/11/2021)
+  echo-client.c found at: https://www.cs.middlebury.edu/~pjohnson/courses/f21-0315/lectures/17/echo-client.c
+  echo-server.c found at: https://www.cs.middlebury.edu/~pjohnson/courses/f21-0315/lectures/17/echo-server.c
+  Makefile found at:      https://www.cs.middlebury.edu/~pjohnson/courses/f21-0315/lectures/17/Makefile

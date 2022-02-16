@@ -1,0 +1,10 @@
+CSCI 315 Systems Programming: Assignment 1
+Jacob Fields and Rob Zhu
+
+gitignore not set up, make clean before pushing
+
+References:
+https://stackoverflow.com/questions/298510/how-to-get-the-current-directory-in-a-c-program
+https://pubs.opengroup.org/onlinepubs/009696799/functions/stat.html
+https://stackoverflow.com/questions/3138600/correct-use-of-stat-on-c
+https://stackoverflow.com/questions/4553012/checking-if-a-file-is-a-directory-or-just-a-file
